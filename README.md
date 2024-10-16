@@ -9,6 +9,7 @@
 
 # 🌈Usages
  - **Train**
+
 First: run the "spatial_branch.py" and "spectral_branch.py"
 
 Scecond: run the "overall_branch.py"
