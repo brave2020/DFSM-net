@@ -16,6 +16,4 @@ Scecond: run the "overall_branch.py"
 ---
 # Citation
 
-If our criteria is helpful, please consider citing the following papers.
-
 The citation will be added later.
